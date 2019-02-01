@@ -5,11 +5,12 @@ This project combines three sensors to get the temperature, humidity and soil mo
 
 ## Sensors
 These are the sensors we are using:
-Chirp! Water sensor
+
+### Chirp! Water sensor
 https://www.adafruit.com/product/1965
-SHT31- Humidity and temperature sensor.
+### SHT31- Humidity and temperature sensor.
 https://www.adafruit.com/product/2857
-OLED Display
+### OLED Display
 https://www.adafruit.com/product/2719
 
 ## January 18th, 2019
