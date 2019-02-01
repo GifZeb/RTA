@@ -24,8 +24,11 @@ Submitted Software Requirement Specification and started PCB Designing. The sens
 
 ## Febuary 1st ,2019
 PCB is fully done and ready for soldering but we figured a problem at this point.
+
+### PCB Front Side
 <img src="https://user-images.githubusercontent.com/43179715/52144970-c27f0980-262d-11e9-96ef-0968ba6a1e12.jpg" width="500" height="500">
 
+###PCB Back Side
 <img src="https://user-images.githubusercontent.com/43179715/52144971-c317a000-262d-11e9-8339-edbdd1949e3f.jpg" width="500" height="500">
 
 Socket Headers we are using have small pins but due to our massive wiring structure reqwuired for the working of sensor, This pcb required headers with long pins so that the soldering can be done from both sides
