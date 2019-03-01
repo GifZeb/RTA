@@ -38,7 +38,12 @@ Socket Headers we are using have small pins but due to our massive wiring struct
 
 Here the raspberry pi header is perfect but the headers for all the sensors should have long pins so that all the connections can be covered while soldering, this requires us to spend not more than 15 dollars.
 
-## Febuary 8 ,2019
+## Febuary 8th ,2019
+
+
+## Febuary 15th ,2019
+
+## Febuary 22th ,2019
 
 
 
