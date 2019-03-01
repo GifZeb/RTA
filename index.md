@@ -42,9 +42,16 @@ Here the raspberry pi header is perfect but the headers for all the sensors shou
 
 
 ## Febuary 15th ,2019
+Reading Week
 
 ## Febuary 22th ,2019
+Hardware, Database and App working fully.
 
+### OLED Display
+![9db70cc4-5be9-4df5-a266-9e0d7c2b8df7](https://user-images.githubusercontent.com/43179715/53650878-88e0f480-3c13-11e9-9c81-11bb644dea0e.jpg)
+
+### Data Display
+![7b63fa17-2886-47ee-aa2e-ed9c491f1fb0](https://user-images.githubusercontent.com/43179715/53650932-a6ae5980-3c13-11e9-9985-27390898a383.jpg)
 
 
 
