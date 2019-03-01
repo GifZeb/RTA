@@ -54,4 +54,3 @@ Hardware, Database and App working fully.
 ![7b63fa17-2886-47ee-aa2e-ed9c491f1fb0](https://user-images.githubusercontent.com/43179715/53650932-a6ae5980-3c13-11e9-9985-27390898a383.jpg)
 
 
-
