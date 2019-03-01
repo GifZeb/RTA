@@ -39,7 +39,15 @@ Socket Headers we are using have small pins but due to our massive wiring struct
 Here the raspberry pi header is perfect but the headers for all the sensors should have long pins so that all the connections can be covered while soldering, this requires us to spend not more than 15 dollars.
 
 ## Febuary 8th ,2019
+New Socket headers were bought and in total it added additional cost of 20 dollars in our budget. New soldered PCB along with the socket headers.
+To confirm that the PCB is working properly, address was checked for all the sensors using command:
+sudo i2cdetect -y 1
+We got the correct address for all the sensors
+SHT31 Address: 45
+Chirp! Water Sensor Address: 20
+OLED Display Address: 3c
 
+![address](https://user-images.githubusercontent.com/43179715/53652216-52f13f80-3c16-11e9-8c3e-cc2e6cad20d4.jpg)
 
 ## Febuary 15th ,2019
 Reading Week
