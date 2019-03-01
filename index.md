@@ -34,7 +34,7 @@ PCB is fully done and ready for soldering but we figured a problem at this point
 
 ### Problems Faced
 Socket Headers we are using have small pins but due to our massive wiring structure reqwuired for the working of sensor, This pcb required headers with long pins so that the soldering can be done from both sides
-![intial_socket_headers](https://user-images.githubusercontent.com/43179715/52145078-112ca380-262e-11e9-9f1c-01fc8742172b.jpg)'
+<img src="https://user-images.githubusercontent.com/43179715/52145078-112ca380-262e-11e9-9f1c-01fc8742172b.jpg" width="500" height="500">
 
 Here the raspberry pi header is perfect but the headers for all the sensors should have long pins so that all the connections can be covered while soldering, this requires us to spend not more than 15 dollars.
 
@@ -47,7 +47,7 @@ SHT31 Address: 45
 Chirp! Water Sensor Address: 20
 OLED Display Address: 3c
 
-![address](https://user-images.githubusercontent.com/43179715/53652216-52f13f80-3c16-11e9-8c3e-cc2e6cad20d4.jpg)
+<img src="https://user-images.githubusercontent.com/43179715/53652216-52f13f80-3c16-11e9-8c3e-cc2e6cad20d4.jpg" width="500" height="500">
 
 ## Febuary 15th ,2019
 Reading Week
@@ -56,9 +56,11 @@ Reading Week
 Hardware, Database and App working fully.
 
 ### OLED Display
-![9db70cc4-5be9-4df5-a266-9e0d7c2b8df7](https://user-images.githubusercontent.com/43179715/53650878-88e0f480-3c13-11e9-9c81-11bb644dea0e.jpg)
+<img src="https://user-images.githubusercontent.com/43179715/53650878-88e0f480-3c13-11e9-9c81-11bb644dea0e.jpg" width="500" height="500">
 
 ### Data Display
-![7b63fa17-2886-47ee-aa2e-ed9c491f1fb0](https://user-images.githubusercontent.com/43179715/53650932-a6ae5980-3c13-11e9-9985-27390898a383.jpg)
+<img src="https://user-images.githubusercontent.com/43179715/53650932-a6ae5980-3c13-11e9-9985-27390898a383.jpg" width="500" height="500">
 
+### Database
+<img src="" width="500" height="500">
 
