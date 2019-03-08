@@ -38,4 +38,4 @@ Please refer to the following link for the code:
 https://github.com/GifZeb/Software-Project-master
 
 ### Running the Project
-Our Project works fully as we are able to get the proper readings displayed on the firebase as well as on the app.
+Our Project works fully as we are able to get the proper readings displayed on the firebase as well as on the app. Python coding is done in raspberry pi 3 to establish connection between firebase and hardware, and the same firebase is further connected to the app. 
