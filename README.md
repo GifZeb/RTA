@@ -2,6 +2,16 @@
 
 ## BUILD INSTRUCTIONS
 
+## Table of Contents
+1. [Purchases](#purchases)
+2. [Gantt Chart](#gantt-chart)
+3. [Hardware Assembly](#hardware-assembly)
+4. [Configuration of Hardware and Software](#configuration-of-hardware-and-software)
+5. [How to setup database](#how-to-setup-database)
+6. [Database Structure](#database-structure)
+7. [Android App Build Intructions](#android-app-build-intructions)
+8. [Running the Project](#running-the-project)
+
 ### Purchases
 ![budget](https://user-images.githubusercontent.com/43179715/53663809-ba1dec80-3c34-11e9-8bbf-b638da49fa36.PNG)
 ### Gantt Chart
