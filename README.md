@@ -38,4 +38,4 @@ Please refer to the following link for the code:
 https://github.com/GifZeb/Software-Project-master
 
 ### Running the Project
-Our Project works fully as we are able to get the proper readings displayed on the firebase as well as on the app. Python coding is done in raspberry pi 3 to establish connection between firebase and hardware, and the same firebase is further connected to the app. 
+Our Project works fully as we are able to get the proper readings displayed on the firebase as well as on the app. Python coding is done in raspberry pi 3 to establish connection between firebase and hardware, and the same firebase is further connected to the app. At first, after running the python codes for all the three sensors simultaneously, hardware sends the values of temperature, humidity and soil moisture to the database after every 5 seconds (gets updated). Than OLED Monochrome Display retrieves temperature and moisture values from the database and diplays it on hardware. At the same time, firebase sends these values to the android application which also got updated every 5 second.
