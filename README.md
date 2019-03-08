@@ -14,10 +14,13 @@
 
 ## Purchases
 ![budget](https://user-images.githubusercontent.com/43179715/53663809-ba1dec80-3c34-11e9-8bbf-b638da49fa36.PNG)
+
 ### Gantt Chart
-Tarun: PCB, All Documentation and maintaining github.
-Divya: PCB, Hardware.
-Jasleen: HArdware connection.
+Total time we took for this project is 95 days. We used android app developed for our software project and implemented it according to the sensors.
+Tarun: PCB,All the stuff related to SHT31-D, signup and lgin in app, connecting app with database, All Documentation and maintaining github.
+Divya: PCB, Hardware working together, settings in app, intents and layouts in app.
+Jasleen: Hardware connection with firebase, retriving database values in app.
+Software took most of the time, hardware only took time at PCB stage which was the most crutial part as it has to be right to run the sensors. Futher stuff of connecing hardware to firebase only took a week.
 
 ## Hardware Assembly
 We are using three sensors:
@@ -36,10 +39,6 @@ First step after getting your raspberry pi is to set it up. Follow the steps bel
 4. Switch on the power and finish the further setup.
 
 ### Hardware Testing
-
-
-
-
 ### PCB Design
 ![pcb_design](https://user-images.githubusercontent.com/43179715/52145141-3c16f780-262e-11e9-8dee-4e2f466e34ab.png)
 
