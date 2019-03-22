@@ -61,6 +61,12 @@ Hardware, Database and App working fully.
 ### Data Display
 <img src="https://user-images.githubusercontent.com/43179715/53650932-a6ae5980-3c13-11e9-9985-27390898a383.jpg" width="500" height="500">
 
+## March 15th,2019
+Other locations having no access to the sensor will get updated along with the updatation in the values  of sensor location. Some Random data will be generated so as to make other locations have some change in the results.
+
 ### Database
 <img src="https://user-images.githubusercontent.com/43179715/54845432-abfd4200-4caf-11e9-93cb-c69b4bab6852.png" width="500" height="500">
 
+## March 22nd, 2019
+Working on the alarm system of Chirp! Water sensor. So that when the level goes really down then it will update and the values should not be just a number but something valueable which gives sense to soil moisture value. 
+Also, the enclosure is up for fixing. There is a height problem.
