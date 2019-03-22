@@ -68,5 +68,5 @@ Other locations having no access to the sensor will get updated along with the u
 <img src="https://user-images.githubusercontent.com/43179715/54845432-abfd4200-4caf-11e9-93cb-c69b4bab6852.png" width="500" height="500">
 
 ## March 22nd, 2019
-Working on the alarm system of Chirp! Water sensor. So that when the level goes really down then it will update and the values should not be just a number but something valueable which gives sense to soil moisture value. 
+Working on the alarm system of Chirp! Water sensor. So that when the level goes really down then it will update and the values should not be just a number but something valueable which gives sense to soil moisture value. Maximum and minimum soil moisture values are measured to determine the range of soil moisture.
 Also, the enclosure is up for fixing. There is a height problem.
