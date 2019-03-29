@@ -74,7 +74,6 @@ Also, the enclosure is up for fixing. There is a height problem.
 ## March 29th,2019
 Soil moisture level calibration is fixed according to the range of the maximum and minimum levels. Enclosure have problem with the width and this would be third time we are fixing it. 
 Underneath is the problem, we faced with the enclosure. We will be using the four parts of the same acrylic structure case we built. 
-![54dc88d7-03b2-4b6e-94c9-09315ab06dc6](https://user-images.githubusercontent.com/43179715/55254649-d8283e00-522e-11e9-9259-b4d211e35897.jpg)
-![680fdb5e-9761-4722-839e-e845e6b7d752](https://user-images.githubusercontent.com/43179715/55254653-d9596b00-522e-11e9-99e1-c333a67201b8.jpg)
-![c15405e3-9e73-45ef-b0a9-9e95648131b6](https://user-images.githubusercontent.com/43179715/55254655-da8a9800-522e-11e9-816c-09b5b98cc312.jpg)
+<img src="https://user-images.githubusercontent.com/43179715/55254649-d8283e00-522e-11e9-9259-b4d211e35897.jpg" width="500" height="500">
+<img src="https://user-images.githubusercontent.com/43179715/55254653-d9596b00-522e-11e9-99e1-c333a67201b8.jpg" width="500" height="500">
 
