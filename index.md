@@ -21,7 +21,7 @@ Decided on the project and submitted the proposal.
 Submitted Software Requirement Specification and started PCB Designing. The sensors are soldered already.
 [SoftwareRequirementSpecifications.docx](https://github.com/GifZeb/RTA/files/2823035/SoftwareRequirementSpecifications.docx)
 
-![pcb_design](https://user-images.githubusercontent.com/43179715/52145141-3c16f780-262e-11e9-8dee-4e2f466e34ab.png)
+<img src="https://user-images.githubusercontent.com/43179715/52145141-3c16f780-262e-11e9-8dee-4e2f466e34ab.png" width="500" height="500">
 
 ## Febuary 1st ,2019
 PCB is fully done and ready for soldering but we figured a problem at this point.
