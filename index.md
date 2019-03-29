@@ -75,7 +75,7 @@ Also, the enclosure is up for fixing. There is a height problem.
 Prototype lab sent our latest version of enclosure this week. The random value generation by hardware for the locations without any sensors attached was fixed. Now, every five seconds, original sensor location value as well as simulated locations values are updated.
 The problem we faced this week was setting up the moisture values. The real values are being updated but moisture values needed to be more elaborated for easy understanding. Maximum and minimum values are set as per moisture sensor range.  
 
-Work Distribution
+### Work Distribution
 Divya was working on setting the moisture values according to range of the Chirp! Water Sensor.
 Jasleen worked on the enclosure.
 Tarun updated the GitHub as well as all the reports and other documentations.
