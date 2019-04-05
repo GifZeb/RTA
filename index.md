@@ -87,7 +87,8 @@ Underneath is the problem, we faced with the enclosure. We will be using the fou
 
 ## April 5th,2019
 This week, the enclosure is finished and fits properly.
-![236ae288-e6a0-4a3c-97e1-cbd944d34d75](https://user-images.githubusercontent.com/43179715/55646616-a886b200-57a9-11e9-8bd6-414b48b81d95.jpg)
+![enclose](https://user-images.githubusercontent.com/43179715/55646676-d10eac00-57a9-11e9-8c1a-c41966da06f9.jpg)
+
 Calibration is finshed as well where the maximum and minimum values are measured by instering sensor end to the water to get maximum value which was 660 and mimimum value when it is dry. Then the database values was changed accordingly and new value is in prcentage for moisture level.
 ### Moisture value in Database 
 ![Capture](https://user-images.githubusercontent.com/43179715/55646550-707f6f00-57a9-11e9-8ffc-896d2375996c.PNG)
