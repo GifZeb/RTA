@@ -85,3 +85,10 @@ Underneath is the problem, we faced with the enclosure. We will be using the fou
 <img src="https://user-images.githubusercontent.com/43179715/55254649-d8283e00-522e-11e9-9259-b4d211e35897.jpg" width="500" height="500">
 <img src="https://user-images.githubusercontent.com/43179715/55254653-d9596b00-522e-11e9-99e1-c333a67201b8.jpg" width="500" height="500">
 
+## April 5th,2019
+This week, the enclosure is finished and fits properly.
+![236ae288-e6a0-4a3c-97e1-cbd944d34d75](https://user-images.githubusercontent.com/43179715/55646616-a886b200-57a9-11e9-8bd6-414b48b81d95.jpg)
+Calibration is finshed as well where the maximum and minimum values are measured by instering sensor end to the water to get maximum value which was 660 and mimimum value when it is dry. Then the database values was changed accordingly and new value is in prcentage for moisture level.
+### Moisture value in Database 
+![Capture](https://user-images.githubusercontent.com/43179715/55646550-707f6f00-57a9-11e9-8ffc-896d2375996c.PNG)
+
