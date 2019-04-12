@@ -93,3 +93,7 @@ Calibration is finshed as well where the maximum and minimum values are measured
 ### Moisture value in Database 
 ![Capture](https://user-images.githubusercontent.com/43179715/55646550-707f6f00-57a9-11e9-8ffc-896d2375996c.PNG)
 
+## April 12th, 2019
+This week, no new stuff but demonstartion of the project and fixing the wifi of raspberry pi. Finishing up report which is not even in its half way. 
+
+
